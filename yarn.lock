@@ -622,10 +622,10 @@
   resolved "https://registry.yarnpkg.com/@happykit/analytics/-/analytics-1.0.1.tgz#6dcc8ec33684766ff11e56a07ed686f8f1a8febc"
   integrity sha512-yA0XHxDrfFqjD0R2mKQHsHvJlesoXno7795XbcI7WMDFBnZ02Y/ai5ZyVu17PP4B82pmpOa8zftSYizgtXzAhg==
 
-"@happykit/flags@2.0.7":
-  version "2.0.7"
-  resolved "https://registry.yarnpkg.com/@happykit/flags/-/flags-2.0.7.tgz#7ced67432503f3f7f531bdb6a6977d36bbddebec"
-  integrity sha512-PmSo+qGpBDryEE8kC6WPQ/Q+DPFTMAAWGqjkVs2nuBR7Tgkpuke8LNgYY6kCnJVwo2cTN4qPV/mpMDsnzFFQ7w==
+"@happykit/flags@3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@happykit/flags/-/flags-3.0.0.tgz#e2ad9f2791026e39a50fd6300727613fe63034a0"
+  integrity sha512-vZx0CBXgrZ0Q0LiHaikD4/oPQ1KO++erY9FaCLTunn3C5i2oh3/HqqGUzPPITFaadHyzqIQC4whbZ1SkyHSeew==
   dependencies:
     nanoid "3.2.0"
 
